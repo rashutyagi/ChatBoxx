@@ -1,5 +1,6 @@
 
-
+# To run this project you will need
+to create firebaseinit.js in src folder and initialize firebase in it and export(default) it as fire.
 
 In the project directory, you can run:
 
